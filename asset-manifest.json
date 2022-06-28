@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "https://tujoworker.github.io/csb-kwf7jo/static/js/main.75402d86.chunk.js",
+    "main.js.map": "https://tujoworker.github.io/csb-kwf7jo/static/js/main.75402d86.chunk.js.map",
+    "runtime-main.js": "https://tujoworker.github.io/csb-kwf7jo/static/js/runtime-main.45037d11.js",
+    "runtime-main.js.map": "https://tujoworker.github.io/csb-kwf7jo/static/js/runtime-main.45037d11.js.map",
+    "static/css/2.21108a1a.chunk.css": "https://tujoworker.github.io/csb-kwf7jo/static/css/2.21108a1a.chunk.css",
+    "static/js/2.6940d709.chunk.js": "https://tujoworker.github.io/csb-kwf7jo/static/js/2.6940d709.chunk.js",
+    "static/js/2.6940d709.chunk.js.map": "https://tujoworker.github.io/csb-kwf7jo/static/js/2.6940d709.chunk.js.map",
+    "index.html": "https://tujoworker.github.io/csb-kwf7jo/index.html",
+    "static/css/2.21108a1a.chunk.css.map": "https://tujoworker.github.io/csb-kwf7jo/static/css/2.21108a1a.chunk.css.map",
+    "static/js/2.6940d709.chunk.js.LICENSE.txt": "https://tujoworker.github.io/csb-kwf7jo/static/js/2.6940d709.chunk.js.LICENSE.txt",
+    "static/media/dnb-ui-core.min.css": "https://tujoworker.github.io/csb-kwf7jo/static/media/DNBMono-Regular.44317dd8.ttf",
+    "static/media/dnb-ui-components.min.css": "https://tujoworker.github.io/csb-kwf7jo/static/media/DNBMono-Skeleton-Regular.736b2343.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45037d11.js",
+    "static/css/2.21108a1a.chunk.css",
+    "static/js/2.6940d709.chunk.js",
+    "static/js/main.75402d86.chunk.js"
+  ]
+}
